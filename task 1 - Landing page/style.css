@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: skyblue;
+    color: black;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+.contact-info {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.contact-info a {
+    color: black;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+/* Rest of the styles remain the same */
